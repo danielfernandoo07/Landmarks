@@ -1,8 +1,8 @@
 //
 //  LandmarkRow.swift
-//  Landmarks
+//  MacLandmarks
 //
-//  Created by student on 18/04/24.
+//  Created by student on 25/04/24.
 //
 
 import SwiftUI
@@ -20,11 +20,9 @@ struct LandmarkRow: View {
             VStack(alignment: .leading) {
                 Text(landmark.name)
                     .bold()
-                #if !os(watchOS)
                 Text(landmark.park)
                     .font(.caption)
                     .foregroundStyle(.secondary)
-                #endif
             }
 
 

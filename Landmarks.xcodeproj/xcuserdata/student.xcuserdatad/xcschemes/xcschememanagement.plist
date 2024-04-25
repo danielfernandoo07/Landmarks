@@ -7,7 +7,50 @@
 		<key>Landmarks.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>MacLandmarks.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WatchLandmarks Watch App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3F2D0EDF2BD0E04B0051EB42</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3F2D0EEF2BD0E04C0051EB42</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3F2D0EF92BD0E04C0051EB42</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3F9F7BCB2BDA186600FD5345</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3F9F7BDA2BDA186700FD5345</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3F9F7BE42BDA186700FD5345</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
